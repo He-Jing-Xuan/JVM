@@ -1,2 +1,37 @@
-# JVM
-Java虚拟机（JVM）一种用于计算机设备的规范，可用不同的方式（软件或硬件）加以实现。编译虚拟机的指令集与编译微处理器的指令集非常类似。Java虚拟机包括一套字节码指令集、一组寄存器、一个栈、一个垃圾回收堆和一个存储方法域。 Java虚拟机（JVM）是可运行Java代码的假想计算机。只要根据JVM规格描述将解释器移植到特定的计算机上，就能保证经过编译的任何Java代码能够在该系统上运行。 Java虚拟机是一个想象中的机器，在实际的计算机上通过软件模拟来实现。Java虚拟机有自己想象中的硬件，如处理器、堆栈、寄存器等，还具有相应的指令系统。 Java虚拟机规范定义了一个抽象的——而非实际的——机器或处理器。这个规范描述了一个指令集，一组寄存器，一个堆栈，一个“垃圾堆”，和一个方法区。一旦一个Java虚拟机在给定的平台上运行，任何Java程序（编译之后的程序，称作字节码）都能在这个平台上运行。Java虚拟机（JVM）可以以一次一条指令的方式来解释字节码（把它映射到实际的处理器指令），或者字节码也可以由实际处理器中称作just-in-time的编译器进行进一步的编译。 [1]
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/He-Jing-Xuan/JVM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/He-Jing-Xuan/JVM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
